@@ -1,0 +1,3 @@
+D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/implant_text.dir
+D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
