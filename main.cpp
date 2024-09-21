@@ -18,7 +18,6 @@ int main() {
     unsigned int payload_len = sizeof(payload);
 
     exec_mem = VirtualAlloc(0, payload_len, MEM_COMMIT | MEM_RESERVE, PAGE_READWRITE);
-    //printf("%-20s : 0x%-016p\n", "payload addr", (void *)payload);
     printf("%-20s : 0x%-016p\n", "payload addr", static_cast<void*>(payload));
     printf("%-20s : 0x%-016p\n", "exec_mem addr", static_cast<void*>(exec_mem));
 
