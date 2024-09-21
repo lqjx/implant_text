@@ -12,7 +12,7 @@ int main() {
     unsigned char payload[] = {
         0x90,  // NOP
         0x90,  // NOP
-        0x90,  // NOP
+        0xcc,  // INT3
         0xc3   // RET
     };
     unsigned int payload_len = sizeof(payload);
