@@ -34,4 +34,8 @@ int main() {
     } else {
         std::cout << "Failed to execute payload\n";
     }
+
+    std::cout << "Press any key to close shit\n";
+    std::cin.get();
+    return 0;
 }
