@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l9p4g0"
-      binary: "D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l9p4g0"
+      source: "D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-z0nvor"
+      binary: "D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-z0nvor"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -119,11 +119,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l9p4g0'
+        Change Dir: 'D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-z0nvor'
         
-        Run Build Command(s): C:/Users/KOZY/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_e8143
-        [1/2] "C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe"  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_e8143.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_e8143.dir\\ /FS -c C:\\Users\\KOZY\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\KOZY\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e8143.dir --rc="C:\\PROGRA~2\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="C:\\PROGRA~2\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_e8143.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_e8143.exe /implib:cmTC_e8143.lib /pdb:cmTC_e8143.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/Users/KOZY/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_9b6de
+        [1/2] "C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe"  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_9b6de.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_9b6de.dir\\ /FS -c C:\\Users\\KOZY\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\KOZY\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_9b6de.dir --rc="C:\\PROGRA~2\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="C:\\PROGRA~2\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_9b6de.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_9b6de.exe /implib:cmTC_9b6de.lib /pdb:cmTC_9b6de.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -151,8 +151,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-q1gocb"
-      binary: "D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-q1gocb"
+      source: "D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-efewfd"
+      binary: "D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-efewfd"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -162,11 +162,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-q1gocb'
+        Change Dir: 'D:/Coding/C++/Practice/implant_text/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-efewfd'
         
-        Run Build Command(s): C:/Users/KOZY/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_282a2
-        [1/2] "C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_282a2.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_282a2.dir\\ /FS -c C:\\Users\\KOZY\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\KOZY\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_282a2.dir --rc="C:\\PROGRA~2\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="C:\\PROGRA~2\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_282a2.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_282a2.exe /implib:cmTC_282a2.lib /pdb:cmTC_282a2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/Users/KOZY/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_6db0b
+        [1/2] "C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_6db0b.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_6db0b.dir\\ /FS -c C:\\Users\\KOZY\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\KOZY\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_6db0b.dir --rc="C:\\PROGRA~2\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="C:\\PROGRA~2\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "C:\\PROGRA~2\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_6db0b.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_6db0b.exe /implib:cmTC_6db0b.lib /pdb:cmTC_6db0b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -

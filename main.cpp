@@ -12,7 +12,7 @@ int main() {
     unsigned char payload[] = {
         0x90,  // NOP
         0x90,  // NOP
-        0xcc,  // INT3
+        0x90,  // NOP
         0xc3   // RET
     };
     unsigned int payload_len = sizeof(payload);
@@ -31,6 +31,7 @@ int main() {
     if (rv != 0) {
         th = CreateThread(0, 0, (LPTHREAD_START_ROUTINE)exec_mem, 0, 0, 0);
         WaitForSingleObject(th, INFINITE);
+        std::cin.get();
     } else {
         std::cout << "Failed to execute payload\n";
     }
